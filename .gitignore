@@ -2,3 +2,6 @@
 *.keras
 __pycache__
 __pycache__/*
+create_trainset_3D.py
+lbml_simulation_3D.py
+train_network_3D.py
